@@ -32,7 +32,7 @@
  -->
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikramnegiofficial&show_icons=true&langs_count=10&locale=en&layout=compact&theme=omni" alt="vikramnegiofficial" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikramnegiofficial&show_icons=true&locale=en&theme=omni" alt="vikramnegiofficial" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vik-negi&show_icons=true&langs_count=10&locale=en&layout=compact&theme=omni" alt="vikramnegiofficial" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vik-negi&show_icons=true&locale=en&theme=omni" alt="vikramnegiofficial" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikramnegiofficial&theme=omni" alt="vikramnegiofficial" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vik-negi&theme=omni" alt="vikramnegiofficial" /></p>
